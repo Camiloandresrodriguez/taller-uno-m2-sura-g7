@@ -69,6 +69,17 @@ puntuaciones.fill(0);
 
 console.log(puntuaciones);
 
+//Ejercicio 11
+let carrito = [];
+carrito.push("Camisa","Pantalon");
+carrito.unshift("Zapatos");
+carrito.splice(1,1);
+
+console.log(carrito);
+
+
+
+
 
 
 
