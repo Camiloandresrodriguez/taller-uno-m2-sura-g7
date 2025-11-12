@@ -51,6 +51,13 @@ asientos.fill("Reservado",1,4);
 
 console.log(asientos);
 
+//Ejercicio 8
+let productos = ["Monitor", "Teclado", "Mouse Roto", "Webcam"];
+productos.splice(2,1,"Mouse nuevo");
+
+console.log(productos);
+
+
 
 
 
