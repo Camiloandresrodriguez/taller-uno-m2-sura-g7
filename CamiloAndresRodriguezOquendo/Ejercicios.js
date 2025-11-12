@@ -38,6 +38,13 @@ fila.splice(1,0,"Jorge");
 
 console.log(fila);
 
+//Ejercicio 6
+let mazo = ["As", "Rey", "Reina", "Jota"];
+mazo.reverse();
+mazo.shift();
+
+console.log(mazo);
+
 
 
 
